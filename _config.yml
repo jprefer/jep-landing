@@ -1,0 +1,32 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://site.jprefer.com
+title: My New Static Website
+email: john@jprefer.com
+author: John Prefer
+description: > # "Write an awesome description for your new site here. 
+ This is my new test site with a doenloaed theme from Jeckyll
+copyright: 'Copyright &copy; 2018 John Prefer. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/jprefer
+  - title: github
+    url: https://github.com/jprefer
+  - title: linkedin
+    url: 
