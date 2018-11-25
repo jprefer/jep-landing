@@ -1,5 +1,5 @@
 ---
-title: My New Static Website
+title: A landing Page Template by jprefer.com
 timezone: UTC
 collections:
   posts:
@@ -15,8 +15,7 @@ description: 'This is my new test site with a downloaded theme from Jeckyll
 
 '
 copyright: Copyright &copy; 2018 John Prefer. All Rights Reserved.
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created
-  by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+credits: 'Credits: Thank you startbootstrap.com.'
 markdown: kramdown
 permalink: pretty
 social:
