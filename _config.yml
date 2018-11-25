@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-url: http://site.jprefer.com
+url: http://landing.jprefer.com
 email: john@jprefer.com
 author: John Prefer
 description: 'This is my new test site with a downloaded theme from Jeckyll
