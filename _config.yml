@@ -25,3 +25,8 @@ social:
   url: https://github.com/jprefer
 - title: linkedin
   url: 
+  
+  plugins:
+  - jekyll-sitemap
+  
+  
